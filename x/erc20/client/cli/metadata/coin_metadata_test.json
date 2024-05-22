@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": "The native staking and governance token of the Evmos chain",
+      "denom_units": [
+        {
+          "denom": "av2x",
+          "exponent": 0
+        },
+        {
+          "denom": "v2x",
+          "exponent": 18
+        }
+      ],
+      "base": "av2x",
+      "display": "av2x",
+      "name": "av2x",
+      "symbol": "v2x"
+    }
+  ]
+}
